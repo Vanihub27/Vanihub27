@@ -93,8 +93,6 @@ Sistema de recomendación para e-commerce desarrollado mediante técnicas de Mac
 
 Python · Pandas · LightGBM · Streamlit
 
-➡️ *Agregar enlace al repositorio*
-
 ---
 
 ## 🏦 FinanceGuard
@@ -111,8 +109,6 @@ Modelo predictivo para identificar clientes con riesgo de abandono (Churn Predic
 **Tecnologías**
 
 Python · Scikit-learn · XGBoost · CatBoost
-
-➡️ *Agregar enlace al repositorio*
 
 ---
 
