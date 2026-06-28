@@ -120,18 +120,6 @@ Python · Scikit-learn · XGBoost · CatBoost
 
 ---
 
-# 📈 Estadísticas de GitHub
-
-<p align="center">
-
-<!-- GitHub Stats -->
-
-<!-- Top Languages -->
-
-</p>
-
----
-
 # 🎓 Formación
 
 ## Formación Académica
