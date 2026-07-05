@@ -26,23 +26,27 @@ Disfruto especialmente trabajar en proyectos donde convergen **ciencia, tecnolog
 
 🌿 Licenciatura en Ciencias Biológicas
 
-⬇️
+                ⬇️
 
 🔬 Doctorado en Ciencias Biológicas
 
-⬇️
+                ⬇️              
 
 📊 Investigación y análisis de datos científicos
 
-⬇️
+                ⬇️
+
+💻 Diplomatura en Ciencia de Datos — Coderhouse
+
+                ⬇️
 
 💻 Curso de Análisis de Datos — Coderhouse
 
-⬇️
+                ⬇️
 
-🤖 Data Science Bootcamp — Henry
+🤖 Carrera de Data Science Bootcamp — Henry
 
-⬇️
+                ⬇️
 
 🚀 Desarrollo de proyectos de Machine Learning y Ciencia de Datos
 
