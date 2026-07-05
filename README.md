@@ -131,6 +131,7 @@ Python · Scikit-learn · XGBoost · CatBoost
 
 * Data Science Bootcamp — Henry
 * Curso de Análisis de Datos — Coderhouse (2024)
+* Diplomatura en Ciencia de Datos — Universidad Nacional de Córdoba (2023)
 
 ---
 
